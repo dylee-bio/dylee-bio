@@ -21,14 +21,10 @@
 - 💊 Genotype-matched combination strategies (MAPK, DNA-damage-response, cell-cycle axes)
 
 ### 📌 Repositories
-
-작업이 공개되는 대로 이 목록을 채워 나갑니다.
-
 | Repository | Description |
 |---|---|
 | [cv](https://github.com/dylee-bio/cv) | Curriculum Vitae (Quarto 원본 + PDF) |
-| *(준비 중)* | 부인암 세포주·전립선 오가노이드 통합 분석 |
-| *(준비 중)* | 전립선암 PDO 패널 약물반응 분석 코드 |
+
 
 ### 🛠️ Tools
 
