@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- ORCID를 발급받으면 아래 주석을 풀고 0000-0000-0000-0000 두 군데를 본인 번호로 바꾸세요 -->
-  <!-- <a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?logo=orcid&logoColor=white"></a> -->
+  <a href="https://orcid.org/0009-0001-0117-0867"><img src="https://img.shields.io/badge/ORCID-0009--0001--0117--0867-A6CE39?logo=orcid&logoColor=white"></a>
   <a href="mailto:teapond030@snu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
@@ -27,8 +26,9 @@
 
 | Repository | Description |
 |---|---|
+| [cv](https://github.com/dylee-bio/cv) | Curriculum Vitae (Quarto 원본 + PDF) |
+| *(준비 중)* | 부인암 세포주·전립선 오가노이드 통합 분석 |
 | *(준비 중)* | 전립선암 PDO 패널 약물반응 분석 코드 |
-| *(준비 중)* | 오가노이드 WES 변이 콜링·주석 파이프라인 |
 
 ### 🛠️ Tools
 
